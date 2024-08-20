@@ -1,0 +1,35 @@
+##Qué es la encapsulación en Java?
+{
+~La capacidad de una clase para heredar atributos y métodos de otra clase.
+=El proceso de ocultar los detalles internos de un objeto y exponer solo lo necesario.
+~La habilidad de un objeto para ser instanciado múltiples veces.
+~La técnica para implementar interfaces en Java.
+}
+##Cuál es la palabra clave utilizada en Java para prevenir que una clase sea heredada?
+{
+~static
+~private
+=final
+~abstract
+}
+##Qué es la herencia en Java?
+{
+~La capacidad de una clase para ser instanciada.
+=El proceso de crear una nueva clase a partir de una clase existente.
+~El mecanismo para modificar atributos privados de una clase.
+~La habilidad de un objeto para ejecutar múltiples métodos simultáneamente.
+}
+##Cómo se declara un método en Java como 'abstract'?
+{
+=`public abstract void metodo();`
+~`abstract public void metodo();`
+~`abstract void metodo() { }`
+~`void metodo() { } abstract`
+}
+##Qué hace el modificador `static` en un método?
+{
+~Hace que el método sea accesible solo desde la misma instancia.
+=Permite que el método sea llamado sin necesidad de instanciar la clase.
+~Impide que el método sea sobrescrito en una subclase.
+~Permite que el método sea visible solo dentro del paquete.
+}
